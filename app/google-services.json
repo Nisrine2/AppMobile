@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "991199593587",
+    "project_id": "coderoute-f13c4",
+    "storage_bucket": "coderoute-f13c4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:991199593587:android:64645e915fb16caf0f5606",
+        "android_client_info": {
+          "package_name": "com.example.coderoute"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpCSteIHmBh9PLdMuxS4TSobIokG7xlhs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
